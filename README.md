@@ -146,7 +146,7 @@
 ```
 
 ## Batendo ponto  
-#### POST /ponto  
+#### POST /ponto/idUsuario/:id  
 **Exemplo POST/:ID**  
    **headers**  
 &nbsp;&nbsp;&nbsp;&nbsp;Content-Type = application/json  
